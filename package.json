@@ -1,0 +1,24 @@
+{
+  "name": "eagle-discord-bot",
+  "version": "1.0.0",
+  "description": "Creating a Discord Bot using Typescript and node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThalesZago/eagle-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThalesZago/eagle-discord-bot/issues"
+  },
+  "homepage": "https://github.com/ThalesZago/eagle-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
